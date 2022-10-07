@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gierkasso
 - 👀 I’m interested in learn programming from scratch, real from 0
-- 🌱 I’m currently learning HTML, CSS and Javascript
+- 🌱 I’m currently learning HTML, CSS, Javascript and C
 - 💞️ I’m looking to collaborate on projects that allows me to learn and have good experiences, and why not? have some earnings too
 - 📫 Just let me a message here or at instagram :)
 
